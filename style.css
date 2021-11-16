@@ -1,0 +1,18 @@
+.colom-height {
+  height: 475px;
+}
+
+.bg-primer {
+  background-color: #ffe7b6;
+  color: #2e3a59;
+}
+
+.bg-sekunder {
+  background-color: #094b72;
+  color: rgba(255, 255, 255, 0.911);
+}
+
+.bg-tersier {
+  background-color: rgba(255, 255, 255, 0.945) f;
+  color: #094b72;
+}
